@@ -1,0 +1,17 @@
+baseURL = 'https://euarctos.com/'
+languageCode = 'en-us'
+title = 'euarctos'
+theme = 'hermit-v2'
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "Continuing Hermit's legacy to be minimal and fast theme"
+  # images = [""]
+  themeColor = "#494f5c"
+
+  #homeSubtitle = "Continuing Hermit's legacy to be minimal and fast theme"
+  footerCopyright = 'Euarctos, LLC'
