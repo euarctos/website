@@ -9,9 +9,8 @@ theme = 'hermit-v2'
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Continuing Hermit's legacy to be minimal and fast theme"
+  description = "Euarctos, LLC"
   # images = [""]
   themeColor = "#494f5c"
 
-  #homeSubtitle = "Continuing Hermit's legacy to be minimal and fast theme"
   footerCopyright = 'Euarctos, LLC'
